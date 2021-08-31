@@ -1,0 +1,6 @@
+10001#Harun-or-Rashid#Abdur Rashid Biswas#Male#19-12-1998#Computer Science and Engineering#2nd Year#1st Semester#Magura.#01871445680#harunducse23rd@gmail.com#No comments.#
+10002#Alamin Hossan#Md. Islam Molla#Male#19-12-1998#Electric and Electrical Engineering#2nd Year#1st Semester#Pabna.#01633257399#alaminhossa2255@gmail.com#Crazy guy.#
+10003#Golam Mourshid Antor#Unknown#Male#27-4-1998#Computer Science and Engineering#2nd Year#1st Semester#Kustia.#0182123234#golammourshid@gmail.com##
+10004#Abu Musa Biswas#Abdur Rashid Biswas#Male#19-12-1998#Computer Science and Engineering#2nd Year#1st Semester#Magura.#01751345235#rofsanjamimusa420@gmail.com#He is a very decent guy.#
+10011#Hossain Safwan#Unknown#Male#12-11-1998#Computer Science and Engineering#2nd Year#1st Semester#Sylhet#017456283#safwan997@gmail.com##
+10009#Rajib Hossain#Unknown#Male#16-1-1998#Software Engineering#2nd Year#1st Semester#Mymensing#01521412774#rajibhoossain2018@gmail.com##
